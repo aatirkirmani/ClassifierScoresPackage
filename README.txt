@@ -1,0 +1,1 @@
+This library evaluates basic Classification models on your data. The result is obtained in the form of a dataframe having different metrics and the total time taken from training till predictions.
